@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	log.Println(helloworld.Hello("abc"))
+	log.Println(helloworld.Hello("abc1"))
 }
